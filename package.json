@@ -1,0 +1,24 @@
+{
+  "name": "desafio8",
+  "version": "1.0.0",
+  "description": "DesafioEntregable8",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoAyalauser/hello-world.git"
+  },
+  "author": "Diego",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoAyalauser/hello-world/issues"
+  },
+  "homepage": "https://github.com/DiegoAyalauser/hello-world#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  }
+}
